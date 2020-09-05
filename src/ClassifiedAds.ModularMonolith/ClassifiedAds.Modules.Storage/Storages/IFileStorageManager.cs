@@ -1,7 +1,10 @@
-﻿using ClassifiedAds.Modules.Storage.Contracts.DTOs;
+﻿using ClassifiedAds.Modules.Storage.DTOs;
+using System;
+using System.Collections.Generic;
 using System.IO;
+using System.Text;
 
-namespace ClassifiedAds.Modules.Storage.Contracts
+namespace ClassifiedAds.Modules.Storage.Storages
 {
     public interface IFileStorageManager
     {

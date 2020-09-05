@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ClassifiedAds.Modules.Storage.Contracts.DTOs
+namespace ClassifiedAds.Modules.Storage.DTOs
 {
     public class FileEntryDTO
     {
